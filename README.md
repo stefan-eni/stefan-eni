@@ -5,6 +5,6 @@ Stefan Eni
 6 years of engineering in safety-critical environments — the last 2 building production LLM systems: RAG pipelines, embedding fine-tunes, and multi-agent systems where accuracy is measured, not assumed.
 
 - Currently: agentic pipelines, retrieval evaluation frameworks, embedding fine-tuning (sentence-transformers / BGE-M3)
-- Featured: [ai-agent-rag](https://github.com/stefan-eni/ai-agent-rag) — multi-agent QA with a runtime self-correction loop
+- Featured: [autosar-embeddings](https://github.com/stefan-eni/autosar-embeddings) — domain fine-tuned bge-m3 for AUTOSAR specs, +9.7 NDCG@10
 - LinkedIn: [linkedin.com/in/stefan-eni](https://www.linkedin.com/in/stefan-eni/)
 - Contact: eni.stefan97@gmail.com
