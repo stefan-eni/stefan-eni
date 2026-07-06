@@ -1,8 +1,6 @@
-Stefan Eni
+Stefan Eni - AI Engineer
 
-**AI Engineer — evaluation-first retrieval and agentic systems.**
-
-6 years of engineering in safety-critical environments — the last 2 building production LLM systems: RAG pipelines, embedding fine-tunes, and multi-agent systems where accuracy is measured, not assumed.
+Years of engineering in safety-critical environments with a track record of production LLM systems: RAG pipelines, embedding fine-tunes, and multi-agent systems where accuracy is measured, not assumed.
 
 - Currently: agentic pipelines, retrieval evaluation frameworks, embedding fine-tuning (sentence-transformers / BGE-M3)
 - Featured: [autosar-embeddings](https://github.com/stefan-eni/autosar-embeddings) — domain fine-tuned bge-m3 for AUTOSAR specs, +9.7 NDCG@10
